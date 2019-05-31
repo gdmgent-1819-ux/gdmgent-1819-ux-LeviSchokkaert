@@ -15,3 +15,90 @@
     margin: 2rem 0 .5rem 0;
     font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
 }
+
+#kleur1{
+    background-color:#1A332B ;
+    padding: 50px;
+    color: #FFFFFF;
+}
+#kleur2{
+    background-color:#60BFA3 ;
+    padding: 50px;
+    color: #FFFFFF;
+}
+#kleur3{
+    background-color:#397362 ;
+    padding: 50px;
+    color: #FFFFFF;
+}
+#kleur4{
+    background-color:#000000 ;
+    padding: 50px;
+    color: #FFFFFF;
+}
+#kleur5{
+    background-color:#FFFFFF ;
+    padding: 50px;
+}
+/*font*/
+#titel{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 100px;
+    font-weight: bold;
+}
+#subtitel{
+    font-size: 45px;
+    font-weight: bolder;
+}
+#subtitel2{
+    font-size: 30px;
+    font-weight: bolder;
+}
+#subtitel2groen{
+    color: #60BFA3;
+}
+#fontbutton{
+    font-size: 30px;
+    font-weight:lighter;  
+}
+#tekst{
+    font-size: 20px;
+}
+#fontform{
+    font-style: italic;
+    font-size: 20px;
+}
+/*button*/
+#knop{
+    border-radius: 10px;
+    padding: 5px 40px;
+    color: #FFFFFF;
+    background-color: #60BFA3;
+    border: none;
+}
+#knop:hover{
+    background-color: #397362;
+}
+/*form*/
+#formulier{
+    padding: 10px 30px;
+    border-radius: 10px;
+    border: rgba(0, 0, 0, 0.1) solid 2px;
+    -moz-box-shadow: 0 15px 20px rgba(0, 0, 0, 0.4);
+    box-shadow: 0 15px 20px rgba(0, 0, 0, 0.4);  
+}
+/*componenten*/
+#cardtile{
+    border-radius: 10px;
+    border: none;
+    width: 300px;
+    background-color: rgba(96, 191, 163, 0.2);
+
+}
+#cardtile img{
+    border-radius: 10px;
+}
+#tekstinkader{
+    margin: 0;
+    padding: 0px 20px 10px 20px;
+}
